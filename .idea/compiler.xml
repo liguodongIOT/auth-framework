@@ -8,12 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="security" />
         <module name="shiro" />
+        <module name="shiro-demo" />
+        <module name="shiro-test" />
+        <module name="shiro-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="auth-framework" target="1.6" />
       <module name="security" target="1.8" />
       <module name="shiro" target="1.8" />
+      <module name="shiro-demo" target="1.6" />
+      <module name="shiro-test" target="1.6" />
+      <module name="shiro-web" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

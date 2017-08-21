@@ -3,6 +3,9 @@
 ### springboot整合shiro-登录认证和权限管理 
 http://blog.csdn.net/ityouknow/article/details/73836159
 
+http://www.vxzsk.com/769.html
+
+
 
 测试
 
@@ -22,7 +25,25 @@ shiro很强大，这仅仅是完成了登录认证和权限管理这两个功能
 http://localhost:8080/login
 http://localhost:8080/index
 
+
+http://127.0.0.1:8080/userInfo/userList
 http://127.0.0.1:8080/userInfo/userAdd
 http://127.0.0.1:8080/userInfo/userDel
-http://127.0.0.1:8080/userInfo/userList
 ```
+
+
+
+
+```
+https://github.com/leelance/spring-boot-all
+
+---
+http://blog.h5min.cn/zjcjava/article/details/71606144
+https://github.com/BambooZhang/springboot-study
+---
+
+
+
+```
+
+

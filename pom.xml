@@ -11,6 +11,9 @@
     <modules>
         <module>security</module>
         <module>shiro</module>
+        <module>shiro-test</module>
+        <module>shiro-demo</module>
+        <module>shiro-web</module>
     </modules>
 
     <parent>
